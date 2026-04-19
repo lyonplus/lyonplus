@@ -24,5 +24,5 @@ Independently designing and operating an AI-assisted algorithmic trading platfor
 ## Reach me
 
 📍 Richmond Hill, Ontario  
-✉️ lianghuichen@sent.com
+✉️ lianghuichen@gmail.com
 
