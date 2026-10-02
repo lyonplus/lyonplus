@@ -1,4 +1,4 @@
-# Lianghui Chen
+# LyonPlus
 
 Systems engineer · 20+ years · C/C++ → Go → AI-integrated infrastructure
 
